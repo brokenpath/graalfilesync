@@ -5,6 +5,8 @@
 ### Metals ###
 .metals/
 
+### Builds ###
+target/
 ### Scala ###
 *.class
 *.log
